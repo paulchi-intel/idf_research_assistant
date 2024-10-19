@@ -6,7 +6,7 @@
 這是一個用於 AI PC IDF研究的多功能工具。它包含 IDF 生成器、概念驗證（PoC）生成器、IDF 合併工具和相關論文搜尋工具。
 
 ## Demo Video
-
+(Under media/IDF Research Assistant Demo.mp4)
 <video width="640" height="360" controls>
   <source src="media/demo_video.mp4" type="video/mp4">
   您的浏览器不支持视频标签。
