@@ -1,0 +1,10 @@
+.venv
+__pycache__
+idf
+idf_research
+poc
+merged_idfs
+tools/__pycache__
+.env
+
+
