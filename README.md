@@ -121,7 +121,7 @@ streamlit run idf_research_assistant.py
 
 ## 貢獻
 
-歡迎提交問題和拉取請求。對於重大變更，請先開 issue 討論您想要更改的內容。
+歡迎提交問題和pull request。對於重大變更，請先開 issue 討論您想要更改的內容。
 
 ## 授權
 
