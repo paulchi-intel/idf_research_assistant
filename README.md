@@ -8,7 +8,7 @@
 ## Demo Video
 (Under media/IDF Research Assistant Demo.mp4)
 <video width="640" height="360" controls>
-  <source src="media/demo_video.mp4" type="video/mp4">
+  <source src="media/IDF Research Assistant Demo.mp4" type="video/mp4">
   您的浏览器不支持视频标签。
 </video>
 
